@@ -1,0 +1,9 @@
+[project]
+name="flask_azure_sso"
+version="0.1.0"
+description="A plugin that allows integration with Azure Entra-ID/OIDC"
+authors=[
+    { name="Christopher Seeley", email="seeleyc86@gmail.com" },
+]
+readme="README.md"
+requires-python=">=3.8"
